@@ -1,0 +1,2330 @@
+14:02:58 **** Build of project sw_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axivdma"
+arm-xilinx-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+
+**** Build of configuration Debug for project sw ****
+
+Nothing to build for project sw
+
+****  of configuration Debug for project sw ****
+
+Nothing to build for project sw
+
+****  of configuration Debug for project sw ****
+
+Nothing to build for project sw
+14:05:51 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c:49:26: fatal error: atv_platform.h: No such file or directory
+ #include "atv_platform.h"
+                          ^
+compilation terminated.
+make: *** [src/main.o] Erreur 1
+14:06:56 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c:49:26: fatal error: atv_platform.h: No such file or directory
+ #include "atv_platform.h"
+                          ^
+compilation terminated.
+make: *** [src/main.o] Erreur 1
+14:07:34 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c:49:26: fatal error: atv_platform.h: No such file or directory
+ #include "atv_platform.h"
+                          ^
+compilation terminated.
+make: *** [src/main.o] Erreur 1
+14:09:10 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:09:10 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+./src/main.o: In function `APP_DriverEnabled':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:90: undefined reference to `HAL_GetMBSwitchState'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:92: undefined reference to `HAL_GetMBSwitchState'
+./src/main.o: In function `APP_PrintRevisions':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:107: undefined reference to `ADIAPI_TxGetChipRevision'
+./src/main.o: In function `main':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:169: undefined reference to `HAL_PlatformInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:190: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:194: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:196: undefined reference to `HAL_GetCurrentMsCount'
+./src/transmitter.o: In function `TRANSMITTER_HardwareInit':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:135: undefined reference to `ADIAPI_TxInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:138: undefined reference to `ADIAPI_TxEnableTmds'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:141: undefined reference to `ADIAPI_TxSetAvmute'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:145: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:148: undefined reference to `ADIAPI_TxSetInputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:156: undefined reference to `ADIAPI_TxSetOutputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:160: undefined reference to `ADIAPI_TxSetCSC'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:164: undefined reference to `ADIAPI_TxSetAudioInterface'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:169: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:170: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:176: undefined reference to `ADIAPI_TxEnablePackets'
+./src/transmitter.o: In function `ADIAPI_TransmitterGetDetectedMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:206: undefined reference to `ADIAPI_TxGetHpdMsenState'
+./src/transmitter.o: In function `TRANSMITTER_MonitorAvrMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:294: undefined reference to `ATV_GetMsCountNZ'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:298: undefined reference to `ATV_GetElapsedMs'
+./src/transmitter.o: In function `ADIAPI_TransmitterMain':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:320: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:324: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:327: undefined reference to `ADIAPI_TxIntPending'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:329: undefined reference to `ADIAPI_TxIsr'
+./src/transmitter.o: In function `ADIAPI_TransmitterSetMuteState':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:368: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:369: undefined reference to `ADIAPI_TxMuteVideo'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:374: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:375: undefined reference to `ADIAPI_TxMuteVideo'
+./src/transmitter.o: In function `TRANSMITTER_NewEdidSegment':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:471: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:476: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:510: undefined reference to `ADIAPI_MwEdidEnableDebugMsg'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:511: undefined reference to `ADIAPI_MwEdidParse'
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:09:16 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+./src/main.o: In function `APP_DriverEnabled':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:90: undefined reference to `HAL_GetMBSwitchState'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:92: undefined reference to `HAL_GetMBSwitchState'
+./src/main.o: In function `APP_PrintRevisions':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:107: undefined reference to `ADIAPI_TxGetChipRevision'
+./src/main.o: In function `main':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:169: undefined reference to `HAL_PlatformInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:190: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:194: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:196: undefined reference to `HAL_GetCurrentMsCount'
+./src/transmitter.o: In function `TRANSMITTER_HardwareInit':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:135: undefined reference to `ADIAPI_TxInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:138: undefined reference to `ADIAPI_TxEnableTmds'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:141: undefined reference to `ADIAPI_TxSetAvmute'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:145: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:148: undefined reference to `ADIAPI_TxSetInputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:156: undefined reference to `ADIAPI_TxSetOutputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:160: undefined reference to `ADIAPI_TxSetCSC'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:164: undefined reference to `ADIAPI_TxSetAudioInterface'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:169: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:170: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:176: undefined reference to `ADIAPI_TxEnablePackets'
+./src/transmitter.o: In function `ADIAPI_TransmitterGetDetectedMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:206: undefined reference to `ADIAPI_TxGetHpdMsenState'
+./src/transmitter.o: In function `TRANSMITTER_MonitorAvrMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:294: undefined reference to `ATV_GetMsCountNZ'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:298: undefined reference to `ATV_GetElapsedMs'
+./src/transmitter.o: In function `ADIAPI_TransmitterMain':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:320: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:324: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:327: undefined reference to `ADIAPI_TxIntPending'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:329: undefined reference to `ADIAPI_TxIsr'
+./src/transmitter.o: In function `ADIAPI_TransmitterSetMuteState':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:368: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:369: undefined reference to `ADIAPI_TxMuteVideo'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:374: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:375: undefined reference to `ADIAPI_TxMuteVideo'
+./src/transmitter.o: In function `TRANSMITTER_NewEdidSegment':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:471: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:476: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:510: undefined reference to `ADIAPI_MwEdidEnableDebugMsg'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:511: undefined reference to `ADIAPI_MwEdidParse'
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:09:28 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:09:28 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+./src/main.o: In function `APP_DriverEnabled':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:90: undefined reference to `HAL_GetMBSwitchState'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:92: undefined reference to `HAL_GetMBSwitchState'
+./src/main.o: In function `APP_PrintRevisions':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:107: undefined reference to `ADIAPI_TxGetChipRevision'
+./src/main.o: In function `main':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:169: undefined reference to `HAL_PlatformInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:190: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:194: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:196: undefined reference to `HAL_GetCurrentMsCount'
+./src/transmitter.o: In function `TRANSMITTER_HardwareInit':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:135: undefined reference to `ADIAPI_TxInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:138: undefined reference to `ADIAPI_TxEnableTmds'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:141: undefined reference to `ADIAPI_TxSetAvmute'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:145: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:148: undefined reference to `ADIAPI_TxSetInputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:156: undefined reference to `ADIAPI_TxSetOutputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:160: undefined reference to `ADIAPI_TxSetCSC'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:164: undefined reference to `ADIAPI_TxSetAudioInterface'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:169: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:170: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:176: undefined reference to `ADIAPI_TxEnablePackets'
+./src/transmitter.o: In function `ADIAPI_TransmitterGetDetectedMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:206: undefined reference to `ADIAPI_TxGetHpdMsenState'
+./src/transmitter.o: In function `TRANSMITTER_MonitorAvrMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:294: undefined reference to `ATV_GetMsCountNZ'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:298: undefined reference to `ATV_GetElapsedMs'
+./src/transmitter.o: In function `ADIAPI_TransmitterMain':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:320: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:324: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:327: undefined reference to `ADIAPI_TxIntPending'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:329: undefined reference to `ADIAPI_TxIsr'
+./src/transmitter.o: In function `ADIAPI_TransmitterSetMuteState':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:368: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:369: undefined reference to `ADIAPI_TxMuteVideo'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:374: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:375: undefined reference to `ADIAPI_TxMuteVideo'
+./src/transmitter.o: In function `TRANSMITTER_NewEdidSegment':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:471: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:476: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:510: undefined reference to `ADIAPI_MwEdidEnableDebugMsg'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:511: undefined reference to `ADIAPI_MwEdidParse'
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:09:39 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:09:39 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+./src/main.o: In function `APP_DriverEnabled':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:90: undefined reference to `HAL_GetMBSwitchState'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:92: undefined reference to `HAL_GetMBSwitchState'
+./src/main.o: In function `APP_PrintRevisions':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:107: undefined reference to `ADIAPI_TxGetChipRevision'
+./src/main.o: In function `main':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:169: undefined reference to `HAL_PlatformInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:190: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:194: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:196: undefined reference to `HAL_GetCurrentMsCount'
+./src/transmitter.o: In function `TRANSMITTER_HardwareInit':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:135: undefined reference to `ADIAPI_TxInit'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:138: undefined reference to `ADIAPI_TxEnableTmds'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:141: undefined reference to `ADIAPI_TxSetAvmute'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:145: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:148: undefined reference to `ADIAPI_TxSetInputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:156: undefined reference to `ADIAPI_TxSetOutputPixelFormat'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:160: undefined reference to `ADIAPI_TxSetCSC'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:164: undefined reference to `ADIAPI_TxSetAudioInterface'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:169: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:170: undefined reference to `ADIAPI_TxSetEnabledEvents'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:176: undefined reference to `ADIAPI_TxEnablePackets'
+./src/transmitter.o: In function `ADIAPI_TransmitterGetDetectedMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:206: undefined reference to `ADIAPI_TxGetHpdMsenState'
+./src/transmitter.o: In function `TRANSMITTER_MonitorAvrMode':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:294: undefined reference to `ATV_GetMsCountNZ'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:298: undefined reference to `ATV_GetElapsedMs'
+./src/transmitter.o: In function `ADIAPI_TransmitterMain':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:320: undefined reference to `ATV_GetElapsedMs'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:324: undefined reference to `HAL_GetCurrentMsCount'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:327: undefined reference to `ADIAPI_TxIntPending'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:329: undefined reference to `ADIAPI_TxIsr'
+./src/transmitter.o: In function `ADIAPI_TransmitterSetMuteState':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:368: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:369: undefined reference to `ADIAPI_TxMuteVideo'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:374: undefined reference to `ADIAPI_TxMuteAudio'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:375: undefined reference to `ADIAPI_TxMuteVideo'
+./src/transmitter.o: In function `TRANSMITTER_NewEdidSegment':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:471: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:476: undefined reference to `ADIAPI_TxSetOutputMode'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:510: undefined reference to `ADIAPI_MwEdidEnableDebugMsg'
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/transmitter.c:511: undefined reference to `ADIAPI_MwEdidParse'
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:10:41 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:10:41 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:10:49 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:11:08 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:11:09 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:11:09 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:13:18 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:13:18 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:13:27 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:13:27 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:13:36 **** Incremental Build of configuration Debug for project sw ****
+make all 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:18:57 **** Incremental Build of configuration Debug for project sw ****
+make all 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZebBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+c:/logiciels/xilinx/sdk/2015.2/gnu/arm/nt/bin/../lib/gcc/arm-xilinx-eabi/4.9.1/../../../../arm-xilinx-eabi/bin/ld.exe: cannot find -lHDMI_ZebBoardLib
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Erreur 1
+14:21:42 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:21:42 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 102665	 704576	  23452	 830693	  cace5	sw.elf
+Finished building: sw.elf.size
+ 
+14:21:54 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:21:54 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 102665	 704576	  23452	 830693	  cace5	sw.elf
+Finished building: sw.elf.size
+ 
+14:21:58 **** Clean-only build of configuration Debug for project sw ****
+make clean 
+rm -rf  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o  ./src/cf_hdmi.d ./src/main.d ./src/transmitter.d  sw.elf.size  sw.elf
+ 
+14:21:58 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 102665	 704576	  23452	 830693	  cace5	sw.elf
+Finished building: sw.elf.size
+ 
+14:23:01 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:24:18 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:25:52 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:26:07 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:27:53 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:32:11 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:32:19 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:32:25 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:34:48 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:35:03 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:35:16 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:36:14 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+14:43:18 **** Auto Build of project sw_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axivdma"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+14:43:35 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/cf_hdmi.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/cf_hdmi.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/cf_hdmi.d" -MT"src/cf_hdmi.d" -o "src/cf_hdmi.o" "../src/cf_hdmi.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/cf_hdmi.c
+ 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+Finished building: ../src/main.c
+ 
+Building file: ../src/transmitter.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/transmitter.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/transmitter.d" -MT"src/transmitter.d" -o "src/transmitter.o" "../src/transmitter.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/transmitter.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 102665	 704576	  23452	 830693	  cace5	sw.elf
+Finished building: sw.elf.size
+ 
+14:59:01 **** Auto Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+15:01:27 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/diskio.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/diskio.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/diskio.d" -MT"src/diskio.d" -o "src/diskio.o" "../src/diskio.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+../src/diskio.c: In function 'disk_status':
+../src/diskio.c:154:6: warning: unused variable 'StatusReg' [-Wunused-variable]
+  u32 StatusReg;
+      ^
+../src/diskio.c: In function 'disk_initialize':
+../src/diskio.c:208:5: warning: unused variable 'ReadBuff' [-Wunused-variable]
+  u8 ReadBuff[64] = {0U};
+     ^
+../src/diskio.c:207:5: warning: unused variable 'SCR' [-Wunused-variable]
+  u8 SCR[8] = {0U};
+     ^
+../src/diskio.c:206:6: warning: unused variable 'Status' [-Wunused-variable]
+  s32 Status;
+      ^
+../src/diskio.c: In function 'disk_write':
+../src/diskio.c:526:8: warning: unused variable 'LocSector' [-Wunused-variable]
+  DWORD LocSector = sector;
+        ^
+../src/diskio.c:525:6: warning: unused variable 'Status' [-Wunused-variable]
+  s32 Status;
+      ^
+../src/diskio.c:524:10: warning: unused variable 's' [-Wunused-variable]
+  DSTATUS s;
+          ^
+../src/diskio.c: At top level:
+../src/diskio.c:124:11: warning: 'ExtCsd' defined but not used [-Wunused-variable]
+ static u8 ExtCsd[512] __attribute__ ((aligned(32)));
+           ^
+../src/diskio.c: In function 'disk_initialize':
+../src/diskio.c:371:2: warning: 's' is used uninitialized in this function [-Wuninitialized]
+  return s;
+  ^
+Finished building: ../src/diskio.c
+ 
+Building file: ../src/ff.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/ff.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/ff.d" -MT"src/ff.d" -o "src/ff.o" "../src/ff.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+../src/ff.c: In function 'create_name':
+../src/ff.c:2147:4: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+  p = *path;
+    ^
+../src/ff.c:2220:8: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]
+  *path = (p+si);      /* Return pointer to the next segment */
+        ^
+Finished building: ../src/ff.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127193	 704576	  24016	 855785	  d0ee9	sw.elf
+Finished building: sw.elf.size
+ 
+15:02:13 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+15:03:23 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+15:04:15 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+15:33:44 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».
+15:34:35 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c:146:1: error: unknown type name 'FATFS'
+ FATFS FatFs;
+ ^
+../src/main.c: In function 'main':
+../src/main.c:208:5: error: unknown type name 'FIL'
+     FIL fil;       /* File object */
+     ^
+../src/main.c:210:5: error: unknown type name 'FRESULT'
+     FRESULT fr;    /* FatFs return code */
+     ^
+../src/main.c:214:5: warning: implicit declaration of function 'f_mount' [-Wimplicit-function-declaration]
+     f_mount(&FatFs, "", 0);
+     ^
+../src/main.c:217:5: warning: implicit declaration of function 'f_open' [-Wimplicit-function-declaration]
+     fr = f_open(&fil, "test.txt", FA_READ);
+     ^
+../src/main.c:217:35: error: 'FA_READ' undeclared (first use in this function)
+     fr = f_open(&fil, "test.txt", FA_READ);
+                                   ^
+../src/main.c:217:35: note: each undeclared identifier is reported only once for each function it appears in
+../src/main.c:221:5: warning: implicit declaration of function 'f_gets' [-Wimplicit-function-declaration]
+     while (f_gets(line, sizeof line, &fil))
+     ^
+../src/main.c:225:5: warning: implicit declaration of function 'f_close' [-Wimplicit-function-declaration]
+     f_close(&fil);
+     ^
+../src/main.c:155:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:88:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:121:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+make: *** [src/main.o] Erreur 1
+15:36:44 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:223:5: warning: implicit declaration of function 'f_gets' [-Wimplicit-function-declaration]
+     while (f_gets(line, sizeof line, &fil))
+     ^
+../src/main.c:157:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:90:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:123:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+./src/main.o: In function `main':
+C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug/../src/main.c:223: undefined reference to `f_gets'
+collect2.exe: error: ld returned 1 exit status
+make: *** [sw.elf] Error 1
+15:39:46 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:211:10: warning: unused variable 'line' [-Wunused-variable]
+     char line[82]; /* Line buffer */
+          ^
+../src/main.c:157:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:90:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:123:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127273	 704576	  24608	 856457	  d1189	sw.elf
+Finished building: sw.elf.size
+ 
+15:48:39 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127337	 704576	  24608	 856521	  d11c9	sw.elf
+Finished building: sw.elf.size
+ 
+15:48:44 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:51:42 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:230:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127401	 704576	  24608	 856585	  d1209	sw.elf
+Finished building: sw.elf.size
+ 
+15:51:45 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:52:09 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:55:39 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:57:41 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:58:42 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:230:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127401	 704576	  24608	 856585	  d1209	sw.elf
+Finished building: sw.elf.size
+ 
+15:58:48 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+15:59:29 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:07:53 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:10:13 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: error: incompatible type for argument 1 of 'xil_printf'
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:221:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(fr);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'FRESULT'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+make: *** [src/main.o] Error 1
+16:10:33 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:221:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG((char)fr);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127465	 704576	  24608	 856649	  d1249	sw.elf
+Finished building: sw.elf.size
+ 
+16:11:04 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:11:53 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:12:12 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:14:18 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:221:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG((int)fr);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'int'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127465	 704576	  24608	 856649	  d1249	sw.elf
+Finished building: sw.elf.size
+ 
+16:14:31 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: error: incompatible type for argument 1 of 'xil_printf'
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:221:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(fr);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'FRESULT'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+make: *** [src/main.o] Error 1
+16:14:35 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:221:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG((int)fr);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'int'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c:159:9: warning: variable 'StartCount' set but not used [-Wunused-but-set-variable]
+  UINT32 StartCount;
+         ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127465	 704576	  24608	 856649	  d1249	sw.elf
+Finished building: sw.elf.size
+ 
+16:14:46 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:15:17 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:15:59 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:19:11 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:20:01 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:20:31 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:107:13: warning: 'APP_PrintRevisions' defined but not used [-Wunused-function]
+ static void APP_PrintRevisions (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127121	 704576	  24608	 856305	  d10f1	sw.elf
+Finished building: sw.elf.size
+ 
+16:20:53 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:233:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:107:13: warning: 'APP_PrintRevisions' defined but not used [-Wunused-function]
+ static void APP_PrintRevisions (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127121	 704576	  24608	 856305	  d10f1	sw.elf
+Finished building: sw.elf.size
+ 
+16:21:41 **** Incremental Build of configuration Debug for project sw ****
+make all 
+make: Nothing to be done for `all'.
+16:23:29 **** Auto Build of configuration Debug for project sw ****
+make all 
+Building file: ../src/main.c
+Invoking: ARM gcc compiler
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -I"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\inc" -c -fmessage-length=0 -MT"src/main.o" -I../../sw_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+In file included from ../src/main.c:46:0:
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:115:2: warning: #warning The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert. [-Wcpp]
+ #warning  The xbasics_type.h file is deprecated and users should use xil_types.h and xil_assert.
+  ^
+../../sw_bsp/ps7_cortexa9_0/include/xbasic_types.h:116:2: warning: #warning Please refer the Standalone BSP UG647 for further details [-Wcpp]
+ #warning  Please refer the Standalone BSP UG647 for further details
+  ^
+../src/main.c: In function 'main':
+../src/main.c:64:33: warning: passing argument 1 of 'xil_printf' makes pointer from integer without a cast
+ #define DBG_MSG                 xil_printf
+                                 ^
+../src/main.c:231:6: note: in expansion of macro 'DBG_MSG'
+      DBG_MSG(buff[i]);
+      ^
+In file included from ../../sw_bsp/ps7_cortexa9_0/include/xil_io.h:65:0,
+                 from ../src/main.c:47:
+../../sw_bsp/ps7_cortexa9_0/include/xil_printf.h:35:6: note: expected 'const char8 *' but argument is of type 'char'
+ void xil_printf( const char8 *ctrl1, ...);
+      ^
+../src/main.c: At top level:
+../src/main.c:92:13: warning: 'APP_DriverEnabled' defined but not used [-Wunused-function]
+ static BOOL APP_DriverEnabled (void)
+             ^
+../src/main.c:107:13: warning: 'APP_PrintRevisions' defined but not used [-Wunused-function]
+ static void APP_PrintRevisions (void)
+             ^
+../src/main.c:125:13: warning: 'APP_ChangeResolution' defined but not used [-Wunused-function]
+ static void APP_ChangeResolution (void)
+             ^
+Finished building: ../src/main.c
+ 
+Building target: sw.elf
+Invoking: ARM gcc linker
+arm-xilinx-eabi-gcc -L"C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\lib" -Wl,-T -Wl,../src/lscript.ld -L../../sw_bsp/ps7_cortexa9_0/lib -o "sw.elf"  ./src/cf_hdmi.o ./src/diskio.o ./src/ff.o ./src/main.o ./src/transmitter.o   -lHDMI_ZedBoardLib -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: sw.elf
+ 
+Invoking: ARM Print Size
+arm-xilinx-eabi-size sw.elf  |tee "sw.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\temp\inf3995-02\tp2\tp2Code\tp2Code\adv7511_zed.sdk\sw\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/temp/inf3995-02/tp2/tp2Code/tp2Code/adv7511_zed.sdk/sw/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+ 127049	 704576	  24608	 856233	  d10a9	sw.elf
+Finished building: sw.elf.size
+ 
+22:49:01 **** Auto Build of project sw_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s include  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in ps7_cortexa9_0/libsrc/axivdma_v5_1/src"
+make -C ps7_cortexa9_0/libsrc/axivdma_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling axivdma"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_3/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_3/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/iic_v3_1/src"
+make -C ps7_cortexa9_0/libsrc/iic_v3_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling iic"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_2/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v5_1/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_0/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_0/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_2/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_2/src -s libs  "SHELL=CMD" "COMPILER=arm-xilinx-eabi-gcc" "ARCHIVER=arm-xilinx-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling xadcps"
+'Finished building libraries'
+22:49:27 **** Auto Build of configuration Debug for project sw ****
+make all 
+make: Rien à faire pour « all ».

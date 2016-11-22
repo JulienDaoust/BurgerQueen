@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BurgerQueenApp</string>
+    <string name="signout">Deconnexion</string>
+    <string name="refresh">Rafraichir</string>
+</resources>

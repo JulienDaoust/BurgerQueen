@@ -1,0 +1,16 @@
+{
+    "nom": "ZedKings",
+    "noTable": 12,
+    "photo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAS0lEQVR4nGNgIAFMZmBg+E8At8AUn8Sj6AxM0TE8is9D5Q4zQAWwKUZW9J8BSQJZMboiFIXIitEV/WeEqSYEmBgYGHYQoY4YNRAAAPorL+vMPrX1AAAAAElFTkSuQmCC",
+    "courriel": "ZedKings@ZedKings.ca",
+    "date": "11",
+    "heure": "23:55:59",
+    "pourEmporter": 1,
+    "commande": [
+        {
+            "identificateur": 11,
+            "nombre": 2,
+            "options": "trop piquant"
+        }
+    ]
+}

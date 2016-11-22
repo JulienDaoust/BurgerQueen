@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tp4.zedboardking.tp4" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name=".WebViewTest1"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+        <activity
+            android:name=".WebViewTest2"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+        <activity
+            android:name=".WebViewTest3"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+        <activity
+            android:name=".tp4"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Thu Sep 10 15:15:39 2015
+# Process ID: 3600
+# Log file: X:/Bureau/A15/INF3995/tp2/tp2Code/tp2Code/adv7511_zed.sdk/webtalk/webtalk.log
+# Journal file: X:/Bureau/A15/INF3995/tp2/tp2Code/tp2Code/adv7511_zed.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
+# webtalk_init -webtalk_dir X:\\Bureau\\A15\\INF3995\\tp2\\tp2Code\\tp2Code\\adv7511_zed.sdk\\webtalk
+# webtalk_register_client -client project
+# webtalk_add_data -client project -key date_generated -value "jeu. sept. 10 15:15:37 2015" -context "software_version_and_target_device"

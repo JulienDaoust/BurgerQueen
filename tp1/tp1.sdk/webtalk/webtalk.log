@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Sun Sep 06 18:20:20 2015
+# Process ID: 5720
+# Log file: C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
+# webtalk_init -webtalk_dir C:\\Users\\mazola\\Desktop\\proj_vivado_inf3995\\tp1.sdk\\webtalk
+# webtalk_register_client -client project
+# webtalk_add_data -client project -key date_generated -value "dim. sept. 6 18:20:19 2015" -context "software_version_and_target_device"

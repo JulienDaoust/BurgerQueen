@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="569" key="DIALOG_X_ORIGIN"/>
+		<item value="26" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="759" key="dialogHeight"/>
+		<item value="1440" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\temp\inf3995-02\tp2\embeddedsw-master\lib\sw_services\xilffs\src"/>
+			<item value="C:\temp\inf3995-02\tp2\embeddedsw-master\lib\sw_services\xilffs\src\include"/>
+			<item value="C:\temp\inf3995-02\tp2\GitHub\no-OS-master\no-OS-master\adv7511\library\zed\inc"/>
+			<item value="C:\temp\inf3995-02\tp2\GitHub\no-OS-master\no-OS-master\adv7511\library\zed\lib"/>
+			<item value="C:\temp\inf3995-02\tp2\GitHub\no-OS-master\no-OS-master\adv7511\zed"/>
+		</list>
+	</section>
+</section>

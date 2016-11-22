@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2015.2.1 (64-bit)
+# SW Build 1302555 on Wed Aug  5 13:06:02 MDT 2015
+# IP Build 1291990 on Mon Jul 27 03:18:52 MDT 2015
+# Start of session at: Thu Sep 17 19:44:54 2015
+# Process ID: 7948
+# Log file: C:/Users/Najib/Desktop/inf3995-02/tp3/PartieMateriel/vivado.log
+# Journal file: C:/Users/Najib/Desktop/inf3995-02/tp3/PartieMateriel\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Najib/Desktop/inf3995-02/tp3/PartieMateriel/tp3.xpr
+INFO: [Project 1-313] Project file moved from 'C:/temp/inf3995-02/tp3/PartieMateriel' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.2/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:11 . Memory (MB): peak = 705.129 ; gain = 149.359
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Sep 17 19:46:29 2015...

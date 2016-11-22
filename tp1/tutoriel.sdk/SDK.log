@@ -1,0 +1,35 @@
+12:37:07 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:37:08 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper.hdf.
+12:37:09 INFO  : XSDB server has started successfully.
+12:37:36 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:37:37 INFO  : XSDB server has started successfully.
+12:37:37 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper.hdf.
+12:37:38 INFO  : Checking for hwspec changes in the project essai1_wrapper_hw_platform_0.
+12:41:22 INFO  : BSP Project P/bsp has been successfully migrated.
+12:55:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:55:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685964" && level==0} -index 1' command is executed.
+12:55:39 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper_hw_platform_0/download.bit"
+12:57:47 ERROR :  [Hsi 55-1546] Processor Instance ps7_cortexa9_0 doesn't exist in Xml/HwDb
+12:59:25 INFO  : Processor reset is completed for microblaze_0
+13:08:12 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+13:08:12 WARN  : Terminating existing sessions on processor microblaze_0
+13:09:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:09:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685964" && level==0} -index 1' command is executed.
+13:09:09 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper_hw_platform_0/download.bit"
+13:10:23 INFO  : Processor reset is completed for microblaze_0
+13:10:51 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+12:02:38 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:02:39 INFO  : XSDB server has started successfully.
+12:02:41 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper.hdf.
+12:02:42 INFO  : Checking for hwspec changes in the project essai1_wrapper_hw_platform_0.
+12:42:06 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:42:08 INFO  : XSDB server has started successfully.
+12:42:08 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper.hdf.
+12:42:09 INFO  : Checking for hwspec changes in the project essai1_wrapper_hw_platform_0.
+12:42:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:42:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+12:42:47 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper_hw_platform_0/download.bit"
+12:42:58 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+12:42:59 ERROR :  [Hsi 55-1546] Processor Instance ps7_cortexa9_0 doesn't exist in Xml/HwDb
+12:42:59 INFO  : Processor reset is completed for microblaze_0
+13:16:30 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

@@ -1,0 +1,231 @@
+11:55:59 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+11:56:00 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper.hdf.
+11:56:02 INFO  : XSDB server has started successfully.
+12:05:57 INFO  : BSP Project P/bsp_tp1 has been successfully migrated.
+12:26:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:26:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+12:26:19 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:26:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:26:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+12:26:43 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:32:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:34:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:35:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:36:31 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+12:36:31 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+12:37:26 INFO  : ps7_init is completed.
+12:37:26 INFO  : ps7_post_config is completed.
+12:37:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:37:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:37:46 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+12:37:49 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:38:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:38:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:44:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:44:59 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:935)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.debugApplication(XilinxAppLaunchConfigurationDelegate.java:750)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:298)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:45:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:45:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+12:45:09 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:45:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:45:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:45:25 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:935)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:91)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:609)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:296)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:45:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:45:37 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:935)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:91)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:609)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:296)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:46:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:51:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:11:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:16:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:16:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+13:16:38 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/Projet3/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+13:17:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:33:18 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:33:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:33:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:34:37 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:07:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:07:59 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:16:01 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+18:16:02 INFO  : XSDB server has started successfully.
+18:16:03 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper.hdf.
+18:19:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:19:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:19:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248684595" && level==0} -index 1' command is executed.
+18:19:51 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+18:20:23 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:21:15 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+10:21:25 INFO  : XSDB server has started successfully.
+10:21:27 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper.hdf.
+10:21:29 INFO  : Checking for hwspec changes in the project BD_tp1_wrapper_hw_platform_1.
+10:21:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:21:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685957" && level==0} -index 1' command is executed.
+10:21:56 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:15:48 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:15:52 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper.hdf.
+12:15:53 INFO  : Checking for hwspec changes in the project BD_tp1_wrapper_hw_platform_1.
+12:15:53 INFO  : XSDB server has started successfully.
+12:17:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:17:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685957" && level==0} -index 1' command is executed.
+12:17:21 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:18:04 INFO  : ps7_init is completed.
+12:18:04 INFO  : ps7_post_config is completed.
+12:18:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:19:49 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:19:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:29:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:29:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:30:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:30:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:30:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:30:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:30:38 ERROR : Unexpected error while opening JTAG UART: 
+java.lang.RuntimeException: Error while opening JTAG UART server: MDM Uart NOT Present in the System
+Could not detect MDM peripheral on hardware. Please check:
+    1. If FPGA is configured correctly
+    2. MDM Core is instantiated in the design
+    3. If the correct FPGA is referred, in case of multiple FPGAs
+    4. If the correct MDM is referred, in case of a multiple MDM system
+    
+
+	at com.xilinx.sdk.targetmanager.internal.TM.startJTAGUARTServer(TM.java:935)
+	at com.xilinx.sdk.debug.core.internal.comm.JTAGUARTStreamsProxy.<init>(JTAGUARTStreamsProxy.java:32)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.createStreamsProxy(RemoteProcess.java:164)
+	at com.xilinx.sdk.debug.core.internal.RemoteProcess.<init>(RemoteProcess.java:65)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:91)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:609)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:296)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:31:06 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:31:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:31:33 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:31:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:31:56 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:31:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:32:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:32:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:33:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:33:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:33:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:33:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:33:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685957" && level==0} -index 1' command is executed.
+12:33:25 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:33:42 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:33:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:34:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:34:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:34:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:34:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685957" && level==0} -index 1' command is executed.
+12:34:56 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:35:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:35:17 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error in Resetting Target
+
+    Could not stop the processor after reset
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:995)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:506)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:588)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:296)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:37:32 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error in Resetting Target
+
+    Could not stop the processor after reset
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:995)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:506)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.debugApplication(XilinxAppLaunchConfigurationDelegate.java:673)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:298)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:858)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:707)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1018)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+12:37:59 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+12:39:28 INFO  : Launching XSDB server: xsdb.bat -s C:/Logiciels/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+12:39:29 INFO  : Processing command line option -hwspec C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper.hdf.
+12:39:30 INFO  : Checking for hwspec changes in the project BD_tp1_wrapper_hw_platform_1.
+12:39:30 INFO  : XSDB server has started successfully.
+12:39:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:39:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248685957" && level==0} -index 1' command is executed.
+12:39:52 INFO  : FPGA configured successfully with bitstream "C:/Users/mazola/Desktop/proj_vivado_inf3995/tp1.sdk/BD_tp1_wrapper_hw_platform_0/BD_tp1_wrapper.bit"
+12:40:09 INFO  : ps7_init is completed.
+12:40:09 INFO  : ps7_post_config is completed.
+12:40:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:40:44 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:11:38 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+21:11:40 INFO  : XSDB server has started successfully.

@@ -1,0 +1,139 @@
+12:41:41 **** Build of project bsp ****
+make -k all 
+"Running Make include in microblaze_0/libsrc/bram_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/bram_v4_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/cpu_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/cpu_v2_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/gpio_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/gpio_v4_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/standalone_v5_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in microblaze_0/libsrc/bram_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/bram_v4_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling bram"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in microblaze_0/libsrc/cpu_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/cpu_v2_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu"
+"Running Make libs in microblaze_0/libsrc/gpio_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/gpio_v4_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpio"
+"Running Make libs in microblaze_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/standalone_v5_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone";
+'Finished building libraries'
+
+**** Build of configuration Debug for project monApp ****
+
+Nothing to build for project monApp
+
+**** Build of configuration Debug for project monApp1 ****
+
+Nothing to build for project monApp1
+12:51:28 **** Auto Build of configuration Debug for project monApp1 ****
+make all 
+Building file: ../src/main.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -I../../bsp/microblaze_0/include -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/main.c
+ 
+Building target: monApp1.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../bsp/microblaze_0/lib -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -o "monApp1.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: monApp1.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size monApp1.elf  |tee "monApp1.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+   3976	    320	   2128	   6424	   1918	monApp1.elf
+Finished building: monApp1.elf.size
+ 
+12:59:22 **** Incremental Build of configuration Debug for project monApp1 ****
+make all 
+make: Rien à faire pour « all ».
+13:10:09 **** Incremental Build of configuration Debug for project monApp1 ****
+make all 
+make: Rien à faire pour « all ».
+13:10:22 **** Incremental Build of configuration Debug for project monApp1 ****
+make all 
+make: Rien à faire pour « all ».
+12:42:48 **** Build of project bsp ****
+make -k all 
+"Running Make include in microblaze_0/libsrc/bram_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/bram_v4_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/cpu_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/cpu_v2_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/gpio_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/gpio_v4_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make include in microblaze_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/standalone_v5_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Running Make libs in microblaze_0/libsrc/bram_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/bram_v4_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling bram"
+"Running Make libs in microblaze_0/libsrc/cpu_v2_3/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/cpu_v2_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling cpu"
+"Running Make libs in microblaze_0/libsrc/gpio_v4_0/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/gpio_v4_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling gpio"
+"Running Make libs in microblaze_0/libsrc/standalone_v5_1/src"
+C:/Logiciels/Xilinx/SDK/2015.2/gnuwin/bin/make -C microblaze_0/libsrc/standalone_v5_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v9.5 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g"
+"Compiling standalone";
+'Finished building libraries'
+12:42:53 **** Build of configuration Debug for project monApp1 ****
+make all 
+Building file: ../src/main.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -I../../bsp/microblaze_0/include -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.c"
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building: ../src/main.c
+ 
+Building target: monApp1.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../bsp/microblaze_0/lib -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -o "monApp1.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+Finished building target: monApp1.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size monApp1.elf  |tee "monApp1.elf.size"
+cygwin warning:
+  MS-DOS style path detected: C:\Users\mazola\Desktop\Projet3\tutoriel.sdk\monApp1\Debug
+  Preferred POSIX equivalent is: /cygdrive/c/Users/mazola/Desktop/Projet3/tutoriel.sdk/monApp1/Debug
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+   text	   data	    bss	    dec	    hex	filename
+   3976	    320	   2128	   6424	   1918	monApp1.elf
+Finished building: monApp1.elf.size
+ 
+12:42:57 **** Incremental Build of configuration Debug for project monApp1 ****
+make all 
+make: Rien à faire pour « all ».

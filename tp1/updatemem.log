@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# updatemem v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Sun Sep 06 12:42:22 2015
+# Process ID: 6976
+# Log file: C:/Users/mazola/Desktop/Projet3/updatemem.log
+# Journal file: C:/Users/mazola/Desktop/Projet3\updatemem.jou
+#-----------------------------------------------------------
+source C:/Logiciels/Xilinx/SDK/2015.2/scripts/updatemem/main.tcl -notrace
+Loading bitfile C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper_hw_platform_0/essai1_wrapper.bit
+Loading data files...
+Updating memory content...
+Creating bitstream...
+Writing bitstream C:/Users/mazola/Desktop/Projet3/tutoriel.sdk/essai1_wrapper_hw_platform_0/download.bit...
+update_mem: Time (s): cpu = 00:00:18 ; elapsed = 00:00:19 . Memory (MB): peak = 495.930 ; gain = 442.965
+INFO: [Common 17-206] Exiting updatemem at Sun Sep 06 12:42:41 2015...

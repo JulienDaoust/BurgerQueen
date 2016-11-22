@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Mon Aug 17 12:10:48 2015
+# Process ID: 2480
+# Log file: D:/poly/pi3info/developpement/zedboard/ADV7511/duSite/hdl/library/axi_spdif_tx/webtalk.log
+# Journal file: D:/poly/pi3info/developpement/zedboard/ADV7511/duSite/hdl/library/axi_spdif_tx\webtalk.jou
+#-----------------------------------------------------------
+source D:/poly/pi3info/developpement/zedboard/ADV7511/duSite/hdl/library/axi_spdif_tx/axi_spdif_tx.hw/webtalk/labtool_webtalk.tcl -notrace
